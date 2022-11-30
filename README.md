@@ -2,7 +2,7 @@
 
 # Vadim Makeev
 
-<img src="https://pepelsbey.dev/images/photo/index.jpg" alt="Black and white portrait on a colored background." width="50%">
+<img src="https://pepelsbey.dev/images/photo/index.jpg" alt="Black and white portrait on a colored background." width="500">
 
 I’m a frontend developer in love with the Web, browsers, bicycles, and podcasting.
 
